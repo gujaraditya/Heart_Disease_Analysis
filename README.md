@@ -1,14 +1,20 @@
 # Introduction:
 Heart disease refers to any condition affecting the heart. This disease discribes a range of conditions that affect your heart. Heart diseases include:
 
-Blood vessel disease, such as coronary artery disease
-Heart rhythm problems (arrhythmias)
-Heart defects you're born with (congenital heart defects)
-Heart valve disease
-Disease of the heart muscle
-Heart infection
+• Blood vessel disease, such as coronary artery disease
+
+• Heart rhythm problems (arrhythmias)
+
+• Heart defects you're born with (congenital heart defects)
+
+• Heart valve disease
+
+• Disease of the heart muscle
+
+• Heart infection
+
 # Business Problem:
-In this project, the dataset has lot many features which gives many medical insights whether a per has a heart condition/ disease or not. Our objective for the project is to build models to predict whether person with available feature has a heart disease or not.
+In this project, the dataset has lot many features which gives many medical insights whether a person has a heart condition/ disease or not. Our objective for the binary classification problem is to build models to predict whether person with available feature has a heart disease or not.
 
 # About Data:
 Data set includes 13 features to predict target 0 or 1, where
